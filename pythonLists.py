@@ -32,3 +32,5 @@ notFriend = guests.pop() #possible to set index. Default is the last one.
 print(guests)
 print('\t' + notFriend.title() + ' is not a friend!')
 print('')
+
+print("GitHub edit")
